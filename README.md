@@ -1,0 +1,2 @@
+# Unix-Linux-Shell-Interpreter
+This is the shell interpreter I made in my operating systems class. The goal of it is to take in linux commands and run them just as the command window would. It has multiple different features, such as pipelining, executing multiple commands, built-in commands that execute directly, as well as different scheduling algorithms. We built our interpreters from scratch throughout the class using C.
